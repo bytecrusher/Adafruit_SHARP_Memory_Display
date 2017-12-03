@@ -17,9 +17,11 @@ All text above, and the splash screen must be included in any redistribution
 *********************************************************************/
 
 //
-// Based on https://github.com/pguerra75/Adafruit_SHARP_Memory_Display
+// modified by bytecrusher
 // Added Support for ESP32 tested with LS027B7DH01A
-// by bytecurhser
+// https://github.com/bytecrusher/Adafruit_SHARP_Memory_Display
+//
+// Based on https://github.com/pguerra75/Adafruit_SHARP_Memory_Display
 //
 
 #if ARDUINO >= 100
