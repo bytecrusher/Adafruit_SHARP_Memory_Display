@@ -1,3 +1,9 @@
+This library is base on adafruit and where modified by pguerra75 (github).
+I added support for ESP32.
+Tested with Sharp Memory Display LS027B7DH01A.
+
+
+____________________________________________________________________
 This is an Arduino library for our Monochrome SHARP Memory Displays
 
   Pick one up today in the adafruit shop!
